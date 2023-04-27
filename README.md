@@ -1,6 +1,6 @@
 # **Data Structure And Algorithm**
 
-> © 尺乙尺 2023
+> **© 尺乙尺 2023**
 
 ### Language and Tool
 
