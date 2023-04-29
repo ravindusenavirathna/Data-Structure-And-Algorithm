@@ -1,6 +1,33 @@
 # **Data Structure And Algorithm**
 
-> **© 尺乙尺 2023**
+> **content**
+
+1. Array
+
+   - all operation
+   - insertion
+   - deletion
+   - sorting
+
+2. Linked List
+
+   - all operation
+   - insertion
+   - deletion
+   - create without loop
+   - create using loop
+
+3. Stack
+
+   - implementation using array
+   - implementation using linked list
+
+4. Queue
+
+   - implementation using array
+   - implementation using linked list
+
+>
 
 ### Language and Tool
 
