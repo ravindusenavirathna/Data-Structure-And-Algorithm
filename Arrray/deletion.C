@@ -1,4 +1,12 @@
-// delete value from the array
+/*
+.
+.
+delete value from the array
+©尺乙尺 2023
+.
+.
+*/
+
 // time complexity (n-position)
 #include <stdio.h>
 

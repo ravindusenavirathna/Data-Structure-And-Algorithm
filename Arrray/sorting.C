@@ -1,3 +1,12 @@
+/*
+.
+.
+array sorting
+©尺乙尺 2023
+.
+.
+*/
+
 #include <stdio.h>
 int arr[] = {2, 45, 10, 4, 7, 1, 9}, n = sizeof(arr) / sizeof(arr[0]);
 

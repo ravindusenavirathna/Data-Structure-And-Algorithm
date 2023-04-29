@@ -1,3 +1,12 @@
+/*
+.
+.
+array operation
+©尺乙尺 2023
+.
+.
+*/
+
 #include <stdio.h>
 int arr[7] = {2, 34, 8, 0, 1}, n = 5;
 

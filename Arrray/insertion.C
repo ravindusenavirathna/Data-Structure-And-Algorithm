@@ -1,4 +1,12 @@
-// insert value to the specific position in array
+/*
+.
+.
+insert value to the specific position in array
+©尺乙尺 2023
+.
+.
+*/
+
 // time complexity (n-position)
 #include <stdio.h>
 

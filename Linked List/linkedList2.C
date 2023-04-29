@@ -1,3 +1,12 @@
+/*
+.
+.
+linked list operation
+©尺乙尺 2023
+.
+.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

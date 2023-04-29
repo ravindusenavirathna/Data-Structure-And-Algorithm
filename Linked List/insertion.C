@@ -1,3 +1,12 @@
+/*
+.
+.
+insert value to the specific position in linked list
+©尺乙尺 2023
+.
+.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node
@@ -7,7 +16,7 @@ struct node
 };
 int main()
 {
-    struct node *new_node, *head = 0, *temp;
+    struct node *new_node, *head = NULL, *temp;
     int insertionData, position, i = 2;
 
     // create

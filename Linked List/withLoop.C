@@ -1,3 +1,12 @@
+/*
+.
+.
+linked list implementation with loop
+©尺乙尺 2023
+.
+.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node
@@ -7,14 +16,14 @@ struct node
 };
 int main()
 {
-    struct node *new_node, *head = 0, *temp;
+    struct node *new_node, *head = NULL, *temp;
     int n, i = 0;
     printf("How many node in Linked List ? ");
     scanf("%d", &n);
     while (i < n)
     {
         new_node = (struct node *)malloc(sizeof(struct node));
-        if (head == 0)
+        if (head == NULL)
         {
             temp = new_node;
             head = temp;
@@ -28,9 +37,9 @@ int main()
         scanf("%d", &temp->data);
         i++;
     }
-    temp->next = 0;
+    temp->next = NULL;
     temp = head;
-    while (temp != 0)
+    while (temp != NULL)
     {
         printf("%d  ", temp->data);
         temp = temp->next;
