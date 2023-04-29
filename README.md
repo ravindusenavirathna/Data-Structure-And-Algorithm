@@ -1,31 +1,31 @@
 # **Data Structure And Algorithm**
 
-> **content**
+> **Content**
 >
 > 1.  Array
 >
-> - all operation
-> - insertion
-> - deletion
-> - sorting
+> - [All operation](https://github.com/ravindusenavirathna/Data-Structure-And-Algorithm/blob/master/Arrray/array.C)
+> - Insertion
+> - Deletion
+> - Sorting
 >
 > 2.  Linked List
 >
-> - all operation
-> - insertion
-> - deletion
-> - create without loop
-> - create using loop
+> - All operation
+> - Insertion
+> - Deletion
+> - Create without loop
+> - Create using loop
 >
 > 3.  Stack
 >
-> - implementation using array
-> - implementation using linked list
+> - Implementation using array
+> - Implementation using linked list
 >
 > 4.  Queue
 >
-> - implementation using array
-> - implementation using linked list
+> - Implementation using array
+> - Implementation using linked list
 
 ### Language and Tool
 
