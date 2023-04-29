@@ -1,10 +1,10 @@
 # **Data Structure And Algorithm**
 
-> **Content**
+> ## **Content**
 >
 > 1.  Array
 >
-> - [All operation](https://github.com/ravindusenavirathna/Data-Structure-And-Algorithm/blob/master/Arrray/array.C)
+> - All operation
 > - Insertion
 > - Deletion
 > - Sorting
