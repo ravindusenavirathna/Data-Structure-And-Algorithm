@@ -17,12 +17,13 @@
 > - Create without loop
 > - Create using loop
 >
-> 3.  Stack
+> 3.  Queue
 >
 > - Implementation using array
 > - Implementation using linked list
+> - Circular queue using array
 >
-> 4.  Queue
+> 4.  Stack
 >
 > - Implementation using array
 > - Implementation using linked list
