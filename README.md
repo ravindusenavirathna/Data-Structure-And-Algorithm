@@ -4,14 +4,14 @@
 >
 > 1.  Array
 >
-> - All operation
+> - All operations
 > - Insertion
 > - Deletion
 > - Sorting
 >
 > 2.  Linked List
 >
-> - All operation
+> - All operations
 > - Insertion
 > - Deletion
 > - Create without loop
