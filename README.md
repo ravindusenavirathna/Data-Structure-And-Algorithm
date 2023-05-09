@@ -1,32 +1,6 @@
 # **Data Structure And Algorithm**
 
-> ## **Content**
->
-> 1.  Array
->
-> - All operations
-> - Insertion
-> - Deletion
-> - Sorting
->
-> 2.  Linked List
->
-> - All operations
-> - Insertion
-> - Deletion
-> - Create without loop
-> - Create using loop
->
-> 3.  Queue
->
-> - Implementation using array
-> - Implementation using linked list
-> - Circular queue using array
->
-> 4.  Stack
->
-> - Implementation using array
-> - Implementation using linked list
+> **Using C Language**
 
 ### Language and Tool
 
