@@ -1,0 +1,46 @@
+() [] . ->
+
+🔽
+
+Unary Operators
+++ -- + - ! ~ (type) size of
+
+🔽
+
+Arithmetic Operators
+Multiplicative * / %	▶️▶️▶️	Additive + -
+
+🔽
+
+Shift Operators
+>> << >>>
+
+🔽
+
+Relational Operators
+with than < <= > >=	▶️▶️▶️	Equality == !=
+
+🔽
+
+BitWise operators
+Bitwise AND(&)	▶️▶️▶️	Bitwise XOR(^)	▶️▶️▶️	Bitwise OR(|)
+
+🔽
+
+Logical Operators
+Logical AND(&&)		▶️▶️▶️	Logical OR(||)
+
+🔽
+
+Ternary Operators
+?:
+
+🔽
+
+Assignment Operators
+= += -= *= /= %= &= ^= |= <<= >>=
+
+🔽
+
+Comma Operators
+,
