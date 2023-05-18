@@ -132,10 +132,10 @@ void search()
 int main()
 {
     create();
-    printf("\n");
+    printf("\n\nInsertion\n");
     insertion();
-    printf("\n");
+    printf("\n\nDeletion\n");
     deletion();
-    printf("\n");
+    printf("\n\nSearch\n");
     search();
 }
